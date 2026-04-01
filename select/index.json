@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "continue?",
+  "base_artist": "yeti let you notice",
+  "createdAt": "2026-04-01T03:08:37.818375Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strong Will Continue",
+      "artist": "NAS & Damian Marley",
+      "has_synced": false,
+      "path": "select/01_Strong_Will_Continue_NAS_&_Damian_Marley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wherein Lies Continue",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/02_Wherein_Lies_Continue_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Continue",
+      "artist": "TRiDENT",
+      "has_synced": true,
+      "path": "select/03_Continue_TRiDENT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jonetsu CONTINUE",
+      "artist": "Sphere",
+      "has_synced": false,
+      "path": "select/04_Jonetsu_CONTINUE_Sphere.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Beatings Will Continue (Until Morale Improves)",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/05_The_Beatings_Will_Continue_(Until_Morale_Improves)_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La vie continue",
+      "artist": "Volts Face feat. La Fouine",
+      "has_synced": true,
+      "path": "select/06_La_vie_continue_Volts_Face_feat._La_Fouine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LA VIE CONTINUE FT LA FOUINE",
+      "artist": "Volts Face",
+      "has_synced": true,
+      "path": "select/07_LA_VIE_CONTINUE_FT_LA_FOUINE_Volts_Face.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "continue?",
+      "artist": "yeti let you notice",
+      "has_synced": false,
+      "path": "select/pl_01_continue_yeti_let_you_notice.txt"
+    }
+  ]
+}
